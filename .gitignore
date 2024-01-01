@@ -1,0 +1,39 @@
+# Dependency directories
+/node_modules
+
+# Environment files
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build files
+/build
+/dist
+
+# Cache and logs
+/.pnp
+.pnp.js
+.pnp.cjs
+npm-debug.log*
+
+# Editor files
+.vscode
+.idea
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Compiled binary extensions
+*.db
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.db-shm
+*.db-wal
+*.swp
